@@ -1,0 +1,33 @@
+h1 { 
+    color:paleturquoise; 
+}
+
+body { 
+    background-color: rgb(175, 200, 240);
+}   
+
+.container { 
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background: rgb(109, 160, 253);
+    width: 50px;
+}
+
+nav {
+    float: left;
+}
+
+nav ul { 
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+nav li { 
+    display: inline;  
+    margin-right: 30 px;
+    padding: 30px; 
+}
